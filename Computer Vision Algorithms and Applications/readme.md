@@ -8,4 +8,4 @@
 
 ---
 
-[![YouTube Channel](youtube_channel_image_link)](youtube_channel_link) [![Telegram Channel](telegram_channel_image_link)](telegram_channel_link)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)]([youtube_channel_link](https://www.youtube.com/@alquadizmi)) [![Telegram Channel](https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram)]([telegram_channel_link](https://t.me/alquadizmi))
